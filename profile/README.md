@@ -1,3 +1,3 @@
-# NeuroVise
+# Bambuc
 
-about NeuroViseComp
+about Bambuc
